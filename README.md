@@ -89,7 +89,7 @@ Unlike browser-based AI tools, this application:
 ### Option 1: Windows EXE (Recommended)
 
 1. Go to the **GitHub Releases** page  
-2. Download the latest `Gemini-AI-Assistant.exe`  
+2. Download the latest `Gemini-Assistant.exe`  
 3. Run the EXE — no Python installation required 
 
 ---
